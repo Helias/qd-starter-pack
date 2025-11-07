@@ -1,5 +1,5 @@
 # Implement this exercise from C++ to Python
-
+#
 # #include <iostream>
 # using namespace std;
 #

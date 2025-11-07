@@ -1,15 +1,15 @@
 # What about implementhing this using "match" ?
-
-#include <iostream>
+#
+# #include <iostream>
 # using namespace std;
-
+#
 # int main()
 # {
 #   string textInput;
-
+#
 #   cout << "Enter a famous name+surname, ex. BarackObama " << endl;
 #   cin >> textInput;
-
+#
 #   if (textInput == "BarackObama")
 #   {
 #     cout << "44th president of the United States" << endl;
@@ -38,6 +38,6 @@
 #   {
 #     cout << "Invalid input! Please enter a good name!" << endl;
 #   }
-
+#
 #   return 0;
 # }
