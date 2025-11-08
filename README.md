@@ -72,6 +72,7 @@ $ pytest --cov src tests/ --cov-report=html
 ``` -->
 
 ### Clean code
+
 Check [this article](https://testdriven.io/blog/clean-code-python/) to understand how to write "clean code" in python.
 
 ### Contributing
